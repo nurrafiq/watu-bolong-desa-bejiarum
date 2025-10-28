@@ -1,0 +1,69 @@
+GAME DESIGN DOCUMENT (GDD)
+Game Title: Watu Bolong: Desa Bejiarum
+Genre: Horror Survival – Folklore-Based Psychological Thriller
+Platform: PC / Console
+Target Audience: 16+ (Pemain yang menyukai horor mistis lokal)
+
+1. Overview
+“Watu Bolong: Desa Bejiarum” adalah game horor survival berbasis legenda lokal Jawa Tengah.
+Pemain berperan sebagai Adi, seorang mahasiswa antropologi yang datang untuk meneliti legenda batu berlubang di Desa Bejiarum.
+Namun, penelitian itu berubah menjadi mimpi buruk ketika ia mulai diganggu oleh roh yang terperangkap di dalam batu.
+
+2. Core Narrative
+* Tema Utama:
+Antara keingintahuan manusia dan kutukan masa lalu.
+* Premis:
+Adi harus mencari kebenaran di balik “Watu Bolong” sambil bertahan dari gangguan makhluk halus dan menyelesaikan ritual kuno untuk menutup portal arwah.
+* Moral:
+Setiap keserakahan terhadap kekuatan alam membawa konsekuensi spiritual.
+
+3. Gameplay
+* Gaya Permainan: First-person horror survival.
+* Fokus: Eksplorasi, manajemen ketenangan (sanity system), dan puzzle spiritual.
+* Fitur Utama:
+o Sistem cahaya: pemain harus menjaga obor agar tetap menyala di tengah kegelapan.
+o Ritual cleansing: minigame untuk menenangkan roh menggunakan mantra dan simbol Jawa kuno.
+o Sanity System: makin lama dalam kegelapan, pemain mulai melihat hal-hal yang tidak nyata.
+o Multiple Ending: tergantung dari moral choice pemain.
+
+4. World & Level Design
+* Setting: Desa Bejiarum, hutan sekitar, gua Watu Bolong, dan rumah tua penjaga desa.
+* Atmosfer: Gelap, penuh kabut, suara gamelan samar, dan bisikan roh di kejauhan.
+* Level Progression:
+1. Desa Awal: perkenalan dan pengumpulan informasi.
+2. Hutan Kabut: pemain mulai diganggu makhluk halus.
+3. Gua Watu Bolong: pusat misteri, tempat ritual akhir.
+
+5. Characters
+NamaPeranDeskripsiAdiProtagonisMahasiswa antropologi yang meneliti legenda lokal.Eyang JatiMentorSesepuh desa, memberi petunjuk tentang ritual penutupan.Roh Penunggu Watu BolongAntagonisArwah yang terperangkap di batu, haus balas dendam.Warga DesaNPCMemberi cerita rakyat dan item ritual.
+6. Audio & Visual Style
+* Visual: Gelap, realistik, dengan pencahayaan redup dan tekstur alami.
+* Audio:
+o Latar musik gamelan pelan dengan suara ambient angin & air.
+o Suara bisikan, langkah kaki, dan efek suara “napas berat” untuk meningkatkan tensi.
+
+7. Technical Info
+* Engine: Unity
+* Controller Support: Ya
+* Aspect Ratio: 16:9
+* Resolution Target: 1080p
+
+8. Project Structure
+Folder utama di GitHub:
+/Assets
+  /Scripts
+  /Scenes
+  /Audio
+/Docs
+  /GDD
+  /GameLoop
+/Packages
+/ProjectSettings
+
+9. Goals & Milestones
+TahapTargetStatusPre-ProductionGDD + Game Loop selesai?PrototypeSistem cahaya & sanity system?AlphaLevel 1 & Ritual mechanic?BetaTesting dan balancing?ReleaseUpload build final ke Itch.io / Steam?
+10. Team & Credits
+* Desainer Utama: Rafiq (Game Designer & Developer)
+* Konsep Cerita: Rafiq
+* Visual & Audio: [Opsional: tambahkan nama kalau ada kolaborator]
+
